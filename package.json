@@ -1,5 +1,5 @@
 {
-  "name": "cursos-dashboard",
+  "name": "team-cast-home",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,13 +11,12 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "chart.js": "^4.4.1",
-    "react-chartjs-2": "^5.2.0"
+    "react-router-dom": "^6.30.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
-    "@vitejs/plugin-react": "^4.1.0",
+    "@vitejs/plugin-react": "^4.1.1",
     "vite": "^4.5.0"
   }
 }
